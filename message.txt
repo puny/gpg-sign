@@ -2,4 +2,6 @@ gpg sign
 
 gpg program add
 
+main branch 랑merge
+
 메모장 ㅎ
